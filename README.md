@@ -1,7 +1,7 @@
 # EnerjiSA Energy Data Marathon | TRAI x Coderspace
 
 <p align="center">
-	<img src=" https://turkiye.ai/wp-content/uploads/2022/01/Enerjisa-Veri-Maratonu-Yatay2022.png " />
+	<img src="https://turkiye.ai/wp-content/uploads/2022/01/Enerjisa-Veri-Maratonu-Yatay2022.png" />
 
 </p>
 
