@@ -1,7 +1,7 @@
 # EnerjiSA Energy Data Marathon | TRAI x Coderspace
 
 <p align="center">
-	<img src="  " />
+	<img src=" https://turkiye.ai/wp-content/uploads/2022/01/Enerjisa-Veri-Maratonu-Yatay2022.png " />
 
 </p>
 
@@ -21,15 +21,12 @@ https://www.kaggle.com/c/enerjisa-enerji-veri-maratonu
 ## Project info
 Our aim was to forecast of solar power plants' production. We have given data from 01.01.2019-30.11.2021 and we need forecast the production for 01.12.2021 – 31.12.2021. We used time series approach to data and used LGBM for forecasting. Optuna and GridSearchCV is used for optimization.
 
-
 ## Dataset info
 Dataset is provided from Enerjisa, these are real datas from past.
 Link: https://www.kaggle.com/c/enerjisa-enerji-veri-maratonu/data
 You can download it from the link
 
 In the shared data set, the total hourly generation amounts of unlicensed solar power plants located in the Capital region between 01.01.2019 and 30.11.2021 are given. Within this region, there are a total of 848 power plants located in the provinces of Ankara, Çankırı, Kırıkkale, Bartın, Karabük, Kastamonu and Zonguldak. In addition to the total production; Since the production weight is in Ankara, the temperature variables of Ankara province were shared between 01.01.2019 - 31.12.2021. The temperature variables include forecast data for the period 01.01.2019 to 30.11.2021, from 01.12.2021 to 31.12.2021.
-
-
 
 We have two tables which are, "generation" and "temperature"
 
@@ -56,10 +53,7 @@ Project is created with:
 
 
 	
-## Setup
-To run this project, just run the functions at the bottom of code and call "item_based_recommender". That's it!
 
-## Developments 
 
 
 
